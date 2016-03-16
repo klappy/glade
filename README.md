@@ -7,7 +7,7 @@ Drafting using statistical machine translation (SMT) requires corpus that is not
 ## Use Case:
 The Bible, specifically the Greek New Testament (GNT) is a single small domain of vocabulary. Each Greek word in the source has a set number of possible meanings which most likely require a different translation for each meaning. In place of translating most common single meaning of a source word from a gateway language like English into a target language like Hindi, translating a lexicon of meanings can allow for and support varied translated terms. 
 
-Lexicons exist for Greek to English. Translating an existing lexicon from English to a target language like Hindi allows for a draft to be generated embedded with extra metadata for each source word including varied definitions, multiple example contexts and parts of speech. 
+Lexicons exist for Greek to English. Translating an existing lexicon from English to a target language like Hindi allows for a draft to be generated embedded with extra metadata for each source word including varied definitions, multiple example contexts and parts of speech. Even with a single definition being translated, translating from the source Greek text offers less loss than starting from a translation.
 
 ## Prototype:
 Starting with Ephesians Chapter 3 for the Prototype. This offers limited source segments and words to understand if the project can meet its goals and know if further modifications to the scope are needed. Lexicon will be converted into a CSV and translated in Google Sheets for ease of implementation.
