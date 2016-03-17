@@ -27,7 +27,7 @@ Items marked * are outside project scope.
 2. *Curate the source lexicon so that the various meanings are represented.
 3. *Curate the contextual examples for source words, derived from Strong's ids.
 4. *Curate additional metadata to embed such as literary devices.
-5. *Curate links to supplemental notes assiated to each segment/verse.
+5. *Curate links to supplemental notes associated to each segment/verse.
 
 ### This project:
 

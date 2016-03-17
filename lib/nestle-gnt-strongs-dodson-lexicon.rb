@@ -37,19 +37,19 @@ class GreekNewTestamentLexicon
 
       strongs = record[4]
       strongs.split('&').each do |_strongs|
-        word = {
-          greek: record[1],
-          strongs: _strongs,
-          morphology: record[2],
-          brief: lexicon[_strongs][:brief],
-          long: lexicon[_strongs][:long],
-          count: 0
-        } rescue nil
-
-        books[ref[:book]][ref[:chapter]][ref[:verse]] << word
-
-        words[_strongs] ||= word
-        words[_strongs][:count] += 1 rescue nil
+        if lexicon[_strongs]
+          word = {
+            greek: record[1],
+            strongs: _strongs,
+            morphology: record[2],
+            brief: lexicon[_strongs][:brief],
+            long: lexicon[_strongs][:long],
+            count: 0
+          }
+          books[ref[:book]][ref[:chapter]][ref[:verse]] << word unless word.empty?
+          words[_strongs] ||= word
+          words[_strongs][:count] += 1
+        end
       end
     end
   end
@@ -114,4 +114,4 @@ class GreekNewTestamentLexicon
 end
 
 gnt = GreekNewTestamentLexicon.new()
-puts gnt.words_sorted_csv
+puts gnt.gnt_html
