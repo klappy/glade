@@ -81,9 +81,13 @@ class GreekNewTestamentLexicon
   end
 
   def words_sorted_csv
-    csv = "strongs\tgreek\tbrief\tlong\n"
-    words_sorted.map{|word| csv << "#{word[:strongs]}\t#{word[:greek]}\t#{word[:brief]}\t#{word[:long]}\n"}
-    csv
+    csv_string = CSV.generate do |csv|
+      csv << ["strongs", "greek", "brief", "long"]
+      words_sorted.map do |word|
+        csv << [ word[:strongs], word[:greek], word[:brief], word[:long] ]
+      end
+    end
+    csv_string
   end
 
   def gnt_html
