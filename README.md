@@ -41,4 +41,5 @@ Items marked * are outside project scope.
 
 11. *Post-edit draft output while referencing metadata for each source word.
 12. *Verify the post-edited work using additional metadata and checking workflows.
-13. *Leverage completed/verified translations as reference material for future drafts and checking steps.
+13. *Align translated text words/phrases to source greek text by Strong's ids by drag and drop.
+14. *Leverage completed/verified translations as reference material for future drafts and checking steps.
