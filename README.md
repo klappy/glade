@@ -1,5 +1,5 @@
 # glead
-(G)reek New Testament - (L)exicon based - (E)ngine for (A)ccurate (D)rafting
+(G)reek New Testament - (L)exicon based - (A)ccurate (D)rafting (E)ngine
 
 ## Background:
 Drafting using statistical machine translation (SMT) requires corpus that is not readily available for drafting Bibles. Previous workflow included a list of words used translated to single most common usage for seeding an engine. As each segment/sentence was translated, it was added to the corpus and the engine updated/trained/tuned for latest data. Alignment was approximate and required many examples before reliable in a single domain. Engines were typically between a gateway langauge such as English to the target language such as Hindi which added loss from the source if it came from Greek such as the New Testament.
