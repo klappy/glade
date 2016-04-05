@@ -1,4 +1,4 @@
-# glead
+# glade
 (G)reek New Testament - (L)exicon based - (A)ccurate (D)rafting (E)ngine
 
 ## Background:
