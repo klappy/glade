@@ -11,7 +11,7 @@ class GreekNewTestamentLexicon
   attr :books, :gnt_source_uri, :lexicon, :lexicon_source_uri, :words
 
   def initialize(params={})
-    @gnt_source_uri = params[:gnt_source] || "../sources/nestle1904/nestle1904-eph.csv"
+    @gnt_source_uri = params[:gnt_source] || "../sources/nestle1904/nestle1904-luke-eph.csv"
     @books = {}
     @lexicon_source_uri = params[:lexicon_source] || "../sources/dodson-greek-lexicon/dodson-english.csv"
     @lexicon = {}
@@ -55,7 +55,11 @@ class GreekNewTestamentLexicon
   end
 
   def reference(ref, reference=ref.dup, _reference={}) # reference("Matt 13:55") #=> {book: "Matt", chapter: '13', verse: '55'}
-    _reference[:book] = reference.gsub(/\s+\d+:\d+$/,'').strip
+    book_ids = %w(nil Matt Mark Luke John Acts Rom 1Co 2Co Gal Eph Phi Col 1Th 2Th 1Ti 2Ti Tit Phm Heb Jam 1Pe 2Pe 1Jo 2Jo 3Jo Jud Rev)
+    book_names = %w(nil Matthew Mark Luke John Acts Romans 1Corinthians 2Corinthians Galatians Ephesians Philippians Colossians 1Thessalonians 2Thessalonians 1Timothy 2Timothy Titus Philemon Hebrews James 1Peter 2Peter 1John 2John 3John Jude Revelation)
+    _book = book_names[book_ids.index(reference.gsub(/\s+\d+:\d+$/,'').strip)]
+
+    _reference[:book] = _book
     _reference[:chapter] = reference[/\d+:\d+$/].gsub(/:\d+/,'').strip
     _reference[:verse] = reference[/\d+:\d+$/].gsub(/\d+:/,'').strip
     return _reference
@@ -82,16 +86,16 @@ class GreekNewTestamentLexicon
 
   def words_sorted_csv
     csv_string = CSV.generate do |csv|
-      csv << ["strongs", "greek", "brief", "long"]
+      csv << ["strongs", "greek", "count", "brief", "long"]
       words_sorted.map do |word|
-        csv << [ word[:strongs], word[:greek], word[:brief], word[:long] ]
+        csv << [ word[:strongs], word[:greek], word[:count], word[:brief], word[:long] ]
       end
     end
     csv_string
   end
 
   def gnt_html
-    html = "<html><body>\n"
+    html = "<!DOCTYPE html><html><head><meta charset='utf-8'></head><html><body>\n"
     books.each do |book, book_data|
       html << "<h2>#{book}</h2>\n"
       html << "<div class='book'>\n"
@@ -101,7 +105,7 @@ class GreekNewTestamentLexicon
         chapter_data.each do |verse, verse_data|
           html << "<p>#{verse} "
           verse_data.each do |word_data|
-            html << "<span title='Greek: #{word_data[:greek]}, Morphology: #{word_data[:morphology]}, Strongs: #{word_data[:strongs]}, Definition: #{word_data[:long]}'>#{word_data[:brief]}</span> | "
+            html << "<span title='Greek: #{word_data[:greek]}, Morphology: #{word_data[:morphology]}, Strongs: #{word_data[:strongs]}, Definition: #{word_data[:long]}'>#{word_data[:brief] || '?'}</span> | "
           end
           html << "</p>\n"
         end
@@ -114,4 +118,4 @@ class GreekNewTestamentLexicon
 end
 
 gnt = GreekNewTestamentLexicon.new()
-puts gnt.gnt_html
+puts gnt.gnt_json
