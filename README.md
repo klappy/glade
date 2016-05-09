@@ -1,5 +1,5 @@
-# glead
-(G)reek New Testament - (L)exicon based - (E)ngine for (A)ccurate (D)rafting
+# glade
+(G)reek New Testament - (L)exicon based - (A)ccurate (D)rafting (E)ngine
 
 ## Background:
 Drafting using statistical machine translation (SMT) requires corpus that is not readily available for drafting Bibles. Previous workflow included a list of words used translated to single most common usage for seeding an engine. As each segment/sentence was translated, it was added to the corpus and the engine updated/trained/tuned for latest data. Alignment was approximate and required many examples before reliable in a single domain. Engines were typically between a gateway langauge such as English to the target language such as Hindi which added loss from the source if it came from Greek such as the New Testament.
@@ -21,24 +21,25 @@ Sources for prototype are:
 ## Workflow/Scope:
 Items marked * are outside project scope.
 
-### Prerequisits:
+### Prerequisites:
 
 1. *Curate the source text so that varied manuscript variants are resolved.
 2. *Curate the source lexicon so that the various meanings are represented.
-3. *Curate the contextual examples for source words, derived from Strong's ids.
-4. *Curate additional metadata to embed such as literary devices.
-5. *Curate links to supplemental notes associated to each segment/verse.
+3. *Translate the source lexicon into target language such as Hindi.
+4. *Curate the contextual examples for source words, derived from Strong's ids.
+5. *Curate additional metadata to embed such as literary devices.
+6. *Curate links to supplemental notes associated to each segment/verse.
 
 ### This project:
 
 6. Serialize the source text into a key-value data structure.
 7. Serialize additional metadata and links to supplental notes for lookup.
-8. Translate the source lexicon into target language such as Hindi.
-9. Serialize the translated lexicon into a key-value data structure for lookup.
-10. Template the draft output to include metadata such as lexicon variances, literary devices, notes, and contextual examples.
+8. Serialize the translated lexicon into a key-value data structure for lookup.
+9. Template the draft output to include metadata such as lexicon variances, literary devices, notes, and contextual examples.
 
 ### Post-editing and checking:
 
-11. *Post-edit draft output while referencing metadata for each source word.
-12. *Verify the post-edited work using additional metadata and checking workflows.
+10. *Post-edit draft output while referencing metadata for each source word.
+11. *Verify the post-edited work using additional metadata and checking workflows.
+12. *Align translated text words/phrases to source greek text by Strong's ids by drag and drop.
 13. *Leverage completed/verified translations as reference material for future drafts and checking steps.
