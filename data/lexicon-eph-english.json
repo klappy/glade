@@ -1,0 +1,1010 @@
+[
+  {
+    "greek": "ὁ",
+    "strongs": "3588",
+    "morphology": "T-NSM",
+    "brief": "the",
+    "long": "the, the definite article.",
+    "count": 71
+  },
+  {
+    "greek": "ἐν",
+    "strongs": "1722",
+    "morphology": "PREP",
+    "brief": "in, on, among",
+    "long": "in, on, among.",
+    "count": 16
+  },
+  {
+    "greek": "καὶ",
+    "strongs": "2532",
+    "morphology": "CONJ",
+    "brief": "and, even, also, namely",
+    "long": "and, even, also, namely.",
+    "count": 12
+  },
+  {
+    "greek": "ἐγὼ",
+    "strongs": "1473",
+    "morphology": "P-1NS",
+    "brief": "I",
+    "long": "I, the first-person pronoun.",
+    "count": 10
+  },
+  {
+    "greek": "Χριστοῦ",
+    "strongs": "5547",
+    "morphology": "N-GSM",
+    "brief": "anointed, the Messiah, the Christ",
+    "long": "anointed; the Messiah, the Christ.",
+    "count": 8
+  },
+  {
+    "greek": "ὃ",
+    "strongs": "3739",
+    "morphology": "R-ASN",
+    "brief": "who, which, what, that",
+    "long": "who, which, what, that.",
+    "count": 7
+  },
+  {
+    "greek": "πάντων",
+    "strongs": "3956",
+    "morphology": "A-GPM",
+    "brief": "all, the whole, every kind of",
+    "long": "all, the whole, every kind of.",
+    "count": 7
+  },
+  {
+    "greek": "ὑμῶν",
+    "strongs": "4771",
+    "morphology": "P-2GP",
+    "brief": "you",
+    "long": "you.",
+    "count": 6
+  },
+  {
+    "greek": "αὐτοῦ",
+    "strongs": "846",
+    "morphology": "P-GSM",
+    "brief": "he, she, it, they, them, same",
+    "long": "he, she, it, they, them, same.",
+    "count": 6
+  },
+  {
+    "greek": "κατὰ",
+    "strongs": "2596",
+    "morphology": "PREP",
+    "brief": "down from, against, according to, throughout, during",
+    "long": "gen: against, down from, throughout, by; acc: over against, among, daily, day-by-day, each day, according to, by way of.",
+    "count": 6
+  },
+  {
+    "greek": "διὰ",
+    "strongs": "1223",
+    "morphology": "PREP",
+    "brief": "through, on account of",
+    "long": "(a) gen: through, throughout, by the instrumentality of, (b) acc: through, on account of, by reason of, for the sake of, because of.",
+    "count": 5
+  },
+  {
+    "greek": "Θεοῦ",
+    "strongs": "2316",
+    "morphology": "N-GSM",
+    "brief": "God, a god",
+    "long": "(a) God, (b) a god, generally.",
+    "count": 5
+  },
+  {
+    "greek": "αἰώνων",
+    "strongs": "165",
+    "morphology": "N-GPM",
+    "brief": "an age, a cycle of time",
+    "long": "an age, a cycle (of time), especially of the present age as contrasted with the future age, and of one of a series of ages stretching to infinity.",
+    "count": 4
+  },
+  {
+    "greek": "εἰς",
+    "strongs": "1519",
+    "morphology": "PREP",
+    "brief": "into, in, among, till, for",
+    "long": "into, in, unto, to, upon, towards, for, among.",
+    "count": 4
+  },
+  {
+    "greek": "Ἰησοῦ",
+    "strongs": "2424",
+    "morphology": "N-GSM",
+    "brief": "Jesus",
+    "long": "Jesus; the Greek form of Joshua; Jesus, son of Eliezer; Jesus, surnamed Justus.",
+    "count": 4
+  },
+  {
+    "greek": "ἵνα",
+    "strongs": "2443",
+    "morphology": "CONJ",
+    "brief": "in order that, so that",
+    "long": "in order that, so that.",
+    "count": 4
+  },
+  {
+    "greek": "δοθείσης",
+    "strongs": "1325",
+    "morphology": "V-APP-GSF",
+    "brief": "I offer, give",
+    "long": "I offer, give; I put, place.",
+    "count": 4
+  },
+  {
+    "greek": "Τούτου",
+    "strongs": "3778",
+    "morphology": "D-GSN",
+    "brief": "this, he, she, it",
+    "long": "this; he, she, it.",
+    "count": 3
+  },
+  {
+    "greek": "ἐγνωρίσθη",
+    "strongs": "1107",
+    "morphology": "V-API-3S",
+    "brief": "I make known, declare, know",
+    "long": "I make known, declare, know, discover.",
+    "count": 3
+  },
+  {
+    "greek": "δυνάμεως",
+    "strongs": "1411",
+    "morphology": "N-GSF",
+    "brief": "might, power, marvelous works",
+    "long": "(a) physical power, force, might, ability, efficacy, energy, meaning (b) plur: powerful deeds, deeds showing (physical) power, marvelous works.",
+    "count": 3
+  },
+  {
+    "greek": "μυστήριον,",
+    "strongs": "3466",
+    "morphology": "N-NSN",
+    "brief": "anything hidden, a mystery",
+    "long": "a mystery, secret, of which initiation is necessary; in the NT: the counsels of God, once hidden but now revealed in the Gospel or some fact thereof; the Christian revelation generally; particular truths or details of the Christian revelation.",
+    "count": 3
+  },
+  {
+    "greek": "δόξα",
+    "strongs": "1391",
+    "morphology": "N-NSF",
+    "brief": "honor, renown, glory splendor",
+    "long": "honor, renown; glory, an especially divine quality, the unspoken manifestation of God, splendor.",
+    "count": 3
+  },
+  {
+    "greek": "χάριτος",
+    "strongs": "5485",
+    "morphology": "N-GSF",
+    "brief": "grace, favor, kindness",
+    "long": "(a) grace, as a gift or blessing brought to man by Jesus Christ, (b) favor, (c) gratitude, thanks, (d) a favor, kindness.",
+    "count": 3
+  },
+  {
+    "greek": "ἐθνῶν—",
+    "strongs": "1484",
+    "morphology": "N-GPN",
+    "brief": "a race, people, the Gentiles",
+    "long": "a race, people, nation; the nations, heathen world, Gentiles.",
+    "count": 3
+  },
+  {
+    "greek": "ὑπὲρ",
+    "strongs": "5228",
+    "morphology": "PREP",
+    "brief": "in behalf of, above",
+    "long": "gen: in behalf of; acc: above.",
+    "count": 3
+  },
+  {
+    "greek": "ἁγίοις",
+    "strongs": "40",
+    "morphology": "A-DPM",
+    "brief": "set apart, holy, sacred",
+    "long": "set apart by (or for) God, holy, sacred.",
+    "count": 3
+  },
+  {
+    "greek": "δύνασθε",
+    "strongs": "1410",
+    "morphology": "V-PNI-2P",
+    "brief": "I am powerful, am able",
+    "long": "(a) I am powerful, have (the) power, (b) I am able, I can.",
+    "count": 2
+  },
+  {
+    "greek": "ἀνθρώπων",
+    "strongs": "444",
+    "morphology": "N-GPM",
+    "brief": "a man, one of the human race",
+    "long": "a man, one of the human race.",
+    "count": 2
+  },
+  {
+    "greek": "γενεαῖς",
+    "strongs": "1074",
+    "morphology": "N-DPF",
+    "brief": "a generation",
+    "long": "a generation; if repeated twice or with another time word, practically indicates infinity of time.",
+    "count": 2
+  },
+  {
+    "greek": "ἐξ",
+    "strongs": "1537",
+    "morphology": "PREP",
+    "brief": "from out, out from among, from",
+    "long": "from out, out from among, from, suggesting from the interior outwards.",
+    "count": 2
+  },
+  {
+    "greek": "Πνεύματι,",
+    "strongs": "4151",
+    "morphology": "N-DSN",
+    "brief": "wind, breath, spirit",
+    "long": "wind, breath, spirit.",
+    "count": 2
+  },
+  {
+    "greek": "εἶναι",
+    "strongs": "1510",
+    "morphology": "V-PAN",
+    "brief": "I am, exist",
+    "long": "I am, exist.",
+    "count": 2
+  },
+  {
+    "greek": "νοῆσαι",
+    "strongs": "3539",
+    "morphology": "V-AAN",
+    "brief": "I understand, consider",
+    "long": "I understand, think, consider, conceive, apprehend; aor. possibly: realize.",
+    "count": 2
+  },
+  {
+    "greek": "νῦν",
+    "strongs": "3568",
+    "morphology": "ADV",
+    "brief": "now, already, at present",
+    "long": "adv. (a) of time: just now, even now; just at hand, immediately, (b) of logical connection: now then, (c) in commands and appeals: at this instant.",
+    "count": 2
+  },
+  {
+    "greek": "ἀγάπῃ",
+    "strongs": "26",
+    "morphology": "N-DSF",
+    "brief": "love",
+    "long": "love, benevolence, good will, esteem; plur: love-feasts.",
+    "count": 2
+  },
+  {
+    "greek": "πρὸς",
+    "strongs": "4314",
+    "morphology": "PREP",
+    "brief": "to, towards, with",
+    "long": "to, towards, with.",
+    "count": 2
+  },
+  {
+    "greek": "πλοῦτος",
+    "strongs": "4149",
+    "morphology": "N-ASN",
+    "brief": "riches, wealth",
+    "long": "riches, wealth, abundance, materially or spiritually.",
+    "count": 2
+  },
+  {
+    "greek": "τίς",
+    "strongs": "5101",
+    "morphology": "I-NSF",
+    "brief": "who, which, what",
+    "long": "who, which, what, why.",
+    "count": 2
+  },
+  {
+    "greek": "αἰτοῦμαι",
+    "strongs": "154",
+    "morphology": "V-PMI-1S",
+    "brief": "I ask, request, beg, petition",
+    "long": "I ask, request, petition, demand.",
+    "count": 2
+  },
+  {
+    "greek": "οἰκονομίαν",
+    "strongs": "3622",
+    "morphology": "N-ASF",
+    "brief": "stewardship",
+    "long": "management of household affairs, stewardship, administration.",
+    "count": 2
+  },
+  {
+    "greek": "πίστεως",
+    "strongs": "4102",
+    "morphology": "N-GSF",
+    "brief": "faith, belief, trust",
+    "long": "faith, belief, trust, confidence; fidelity, faithfulness.",
+    "count": 2
+  },
+  {
+    "greek": "χάριν",
+    "strongs": "5484",
+    "morphology": "PREP",
+    "brief": "on account of",
+    "long": "for the sake of, by reason of, on account of.",
+    "count": 2
+  },
+  {
+    "greek": "ἐκκλησίας",
+    "strongs": "1577",
+    "morphology": "N-GSF",
+    "brief": "an assembly, congregation, church",
+    "long": "an assembly, congregation, church; the Church, the whole body of Christian believers.",
+    "count": 2
+  },
+  {
+    "greek": "ἐποίησεν",
+    "strongs": "4160",
+    "morphology": "V-AAI-3S",
+    "brief": "I do, make",
+    "long": "(a) I make, manufacture, construct, (b) I do, act, cause.",
+    "count": 2
+  },
+  {
+    "greek": "γόνατά",
+    "strongs": "1119",
+    "morphology": "N-APN",
+    "brief": "a knee",
+    "long": "the knee.",
+    "count": 1
+  },
+  {
+    "greek": "Κυρίῳ",
+    "strongs": "2962",
+    "morphology": "N-DSM",
+    "brief": "lord, Lord, master, sir",
+    "long": "lord, master, sir; the Lord.",
+    "count": 1
+  },
+  {
+    "greek": "παρρησίαν",
+    "strongs": "3954",
+    "morphology": "N-ASF",
+    "brief": "freedom, confidence",
+    "long": "freedom, openness, especially in speech; boldness, confidence.",
+    "count": 1
+  },
+  {
+    "greek": "πρόθεσιν",
+    "strongs": "4286",
+    "morphology": "N-ASF",
+    "brief": "the show-bread, predetermination",
+    "long": "a setting forth, the show-bread; predetermination, purpose.",
+    "count": 1
+  },
+  {
+    "greek": "σοφία",
+    "strongs": "4678",
+    "morphology": "N-NSF",
+    "brief": "wisdom",
+    "long": "wisdom, insight, skill (human or divine), intelligence.",
+    "count": 1
+  },
+  {
+    "greek": "πολυποίκιλος",
+    "strongs": "4182",
+    "morphology": "A-NSF",
+    "brief": "much varied, manifold",
+    "long": "much varied, manifold.",
+    "count": 1
+  },
+  {
+    "greek": "προσαγωγὴν",
+    "strongs": "4318",
+    "morphology": "N-ASF",
+    "brief": "approach, access",
+    "long": "approach, access, admission.",
+    "count": 1
+  },
+  {
+    "greek": "ἐπουρανίοις",
+    "strongs": "2032",
+    "morphology": "A-DPN",
+    "brief": "heavenly, celestial",
+    "long": "heavenly, celestial, in the heavenly sphere, the sphere of spiritual activities; met: divine, spiritual.",
+    "count": 1
+  },
+  {
+    "greek": "ἐξουσίαις",
+    "strongs": "1849",
+    "morphology": "N-DPF",
+    "brief": "power, authority, weight",
+    "long": "(a) power, authority, weight, especially: moral authority, influence, (b) in a quasi-personal sense, derived from later Judaism, of a spiritual power, and hence of an earthly power.",
+    "count": 1
+  },
+  {
+    "greek": "ἀρχαῖς",
+    "strongs": "746",
+    "morphology": "N-DPF",
+    "brief": "ruler, beginning",
+    "long": "(a) rule (kingly or magisterial), (b) plur: in a quasi-personal sense, almost: rulers, magistrates, (c) beginning.",
+    "count": 1
+  },
+  {
+    "greek": "πεποιθήσει",
+    "strongs": "4006",
+    "morphology": "N-DSF",
+    "brief": "confidence, trust",
+    "long": "confidence, trust, reliance.",
+    "count": 1
+  },
+  {
+    "greek": "κτίσαντι,",
+    "strongs": "2936",
+    "morphology": "V-AAP-DSM",
+    "brief": "I create, form, shape, make",
+    "long": "I create, form, shape, make, always of God.",
+    "count": 1
+  },
+  {
+    "greek": "διὸ",
+    "strongs": "1352",
+    "morphology": "CONJ",
+    "brief": "wherefore",
+    "long": "wherefore, on which account, therefore.",
+    "count": 1
+  },
+  {
+    "greek": "ἀπὸ",
+    "strongs": "575",
+    "morphology": "PREP",
+    "brief": "from, away from",
+    "long": "from, away from.",
+    "count": 1
+  },
+  {
+    "greek": "ἀποκεκρυμμένου",
+    "strongs": "613",
+    "morphology": "V-RPP-GSN",
+    "brief": "I hide away, conceal",
+    "long": "I hide away, conceal, keep secret.",
+    "count": 1
+  },
+  {
+    "greek": "μὴ",
+    "strongs": "3361",
+    "morphology": "PRT-N",
+    "brief": "not, lest",
+    "long": "not, lest.",
+    "count": 1
+  },
+  {
+    "greek": "φωτίσαι",
+    "strongs": "5461",
+    "morphology": "V-AAN",
+    "brief": "I illuminate, bring to light",
+    "long": "(a) I light up, illumine, (b) I bring to light, make evident, reveal.",
+    "count": 1
+  },
+  {
+    "greek": "ἐνκακεῖν",
+    "strongs": "1573",
+    "morphology": "V-PAN",
+    "brief": "I am faint, am weary",
+    "long": "I am faint, am weary.",
+    "count": 1
+  },
+  {
+    "greek": "ἀνεξιχνίαστον",
+    "strongs": "421",
+    "morphology": "A-ASN",
+    "brief": "incomprehensible",
+    "long": "that cannot be explored, incomprehensible.",
+    "count": 1
+  },
+  {
+    "greek": "εὐαγγελίσασθαι",
+    "strongs": "2097",
+    "morphology": "V-AMN",
+    "brief": "I bring good news, preach good tidings",
+    "long": "I bring good news, preach good tidings, with or without an object, expressing either the persons who receive the good news or the good news itself (the good news being sometimes expressed as a person).",
+    "count": 1
+  },
+  {
+    "greek": "θλίψεσίν",
+    "strongs": "2347",
+    "morphology": "N-DPF",
+    "brief": "persecution, affliction, distress",
+    "long": "persecution, affliction, distress, tribulation.",
+    "count": 1
+  },
+  {
+    "greek": "ἐλαχιστοτέρῳ",
+    "strongs": "1647",
+    "morphology": "A-DSM-C",
+    "brief": "the smallest, least important",
+    "long": "the smallest, least important.",
+    "count": 1
+  },
+  {
+    "greek": "ἥτις",
+    "strongs": "3748",
+    "morphology": "R-NSF",
+    "brief": "whosoever, whichsoever, whatsoever",
+    "long": "whosoever, whichsoever, whatsoever.",
+    "count": 1
+  },
+  {
+    "greek": "ἐνέργειαν",
+    "strongs": "1753",
+    "morphology": "N-ASF",
+    "brief": "working, activity",
+    "long": "working, action, productive work, activity; in the NT, confined to superhuman activity.",
+    "count": 1
+  },
+  {
+    "greek": "δωρεὰν",
+    "strongs": "1431",
+    "morphology": "N-ASF",
+    "brief": "a free gift",
+    "long": "a (free) gift, a gift (without repayment).",
+    "count": 1
+  },
+  {
+    "greek": "διάκονος",
+    "strongs": "1249",
+    "morphology": "N-NSM",
+    "brief": "a waiter, servant, administrator",
+    "long": "a waiter, servant; then of any one who performs any service, an administrator.",
+    "count": 1
+  },
+  {
+    "greek": "ἐγενήθην",
+    "strongs": "1096",
+    "morphology": "V-AOI-1S",
+    "brief": "I come into being, am born",
+    "long": "I come into being, am born, become, come about, happen.",
+    "count": 1
+  },
+  {
+    "greek": "εὐαγγελίου,",
+    "strongs": "2098",
+    "morphology": "N-GSN",
+    "brief": "the good news, the gospel",
+    "long": "the good news of the coming of the Messiah, the gospel; the gen. after it expresses sometimes the giver (God), sometimes the subject (the Messiah, etc.), sometimes the human transmitter (an apostle).",
+    "count": 1
+  },
+  {
+    "greek": "κάμπτω",
+    "strongs": "2578",
+    "morphology": "V-PAI-1S",
+    "brief": "I bend, bow",
+    "long": "I bend, bow.",
+    "count": 1
+  },
+  {
+    "greek": "ἐπαγγελίας",
+    "strongs": "1860",
+    "morphology": "N-GSF",
+    "brief": "a promise",
+    "long": "a promise.",
+    "count": 1
+  },
+  {
+    "greek": "συνμέτοχα",
+    "strongs": "4830",
+    "morphology": "A-APN",
+    "brief": "jointly partaking",
+    "long": "jointly partaking.",
+    "count": 1
+  },
+  {
+    "greek": "σύνσωμα",
+    "strongs": "4954",
+    "morphology": "A-APN",
+    "brief": "belonging to the same body",
+    "long": "belonging to the same body; fig: of Jews and Gentiles belonging to the same Church.",
+    "count": 1
+  },
+  {
+    "greek": "συνκληρονόμα",
+    "strongs": "4789",
+    "morphology": "A-APN",
+    "brief": "a joint heir, participant",
+    "long": "a joint heir, participant.",
+    "count": 1
+  },
+  {
+    "greek": "ἔχομεν",
+    "strongs": "2192",
+    "morphology": "V-PAI-1P",
+    "brief": "I have, hold, possess",
+    "long": "I have, hold, possess.",
+    "count": 1
+  },
+  {
+    "greek": "Πατέρα,",
+    "strongs": "3962",
+    "morphology": "N-ASM",
+    "brief": "father, Father, ancestor",
+    "long": "father, (Heavenly) Father, ancestor, elder, senior.",
+    "count": 1
+  },
+  {
+    "greek": "προφήταις",
+    "strongs": "4396",
+    "morphology": "N-DPM",
+    "brief": "a prophet, poet",
+    "long": "a prophet, poet; a person gifted at expositing divine truth.",
+    "count": 1
+  },
+  {
+    "greek": "πατριὰ",
+    "strongs": "3965",
+    "morphology": "N-NSF",
+    "brief": "a family, tribe",
+    "long": "lineage, ancestry; a family, tribe.",
+    "count": 1
+  },
+  {
+    "greek": "οὐρανοῖς",
+    "strongs": "3772",
+    "morphology": "N-DPM",
+    "brief": "the sky, the heaven",
+    "long": "heaven, (a) the visible heavens: the atmosphere, the sky, the starry heavens, (b) the spiritual heavens.",
+    "count": 1
+  },
+  {
+    "greek": "ἀποστόλοις",
+    "strongs": "652",
+    "morphology": "N-DPM",
+    "brief": "an apostle, a messenger, an envoy, a delegate",
+    "long": "a messenger, envoy, delegate, one commissioned by another to represent him in some way, especially a man sent out by Jesus Christ Himself to preach the Gospel; an apostle.",
+    "count": 1
+  },
+  {
+    "greek": "ἐπὶ",
+    "strongs": "1909",
+    "morphology": "PREP",
+    "brief": "on, to, against, on the basis of, at",
+    "long": "on, to, against, on the basis of, at.",
+    "count": 1
+  },
+  {
+    "greek": "ἀπεκαλύφθη",
+    "strongs": "601",
+    "morphology": "V-API-3S",
+    "brief": "I uncover, bring to light, reveal",
+    "long": "I uncover, bring to light, reveal.",
+    "count": 1
+  },
+  {
+    "greek": "γῆς",
+    "strongs": "1093",
+    "morphology": "N-GSF",
+    "brief": "the earth, soil, land",
+    "long": "the earth, soil, land, region, country, inhabitants of a region.",
+    "count": 1
+  },
+  {
+    "greek": "ὡς",
+    "strongs": "5613",
+    "morphology": "ADV",
+    "brief": "as, like as, how, while, so that",
+    "long": "as, like as, about, as it were, according as, how, when, while, as soon as, so that.",
+    "count": 1
+  },
+  {
+    "greek": "ὀνομάζεται,",
+    "strongs": "3687",
+    "morphology": "V-PPI-3S",
+    "brief": "I give a name to, mention",
+    "long": "I give a name to, mention, call upon the name of.",
+    "count": 1
+  },
+  {
+    "greek": "υἱοῖς",
+    "strongs": "5207",
+    "morphology": "N-DPM",
+    "brief": "a son, descendent",
+    "long": "a son, descendent.",
+    "count": 1
+  },
+  {
+    "greek": "οὐκ",
+    "strongs": "3756",
+    "morphology": "PRT-N",
+    "brief": "no, not",
+    "long": "no, not.",
+    "count": 1
+  },
+  {
+    "greek": "κραταιωθῆναι",
+    "strongs": "2901",
+    "morphology": "V-APN",
+    "brief": "I strengthen, confirm, grow strong",
+    "long": "I strengthen, confirm; pass: I grow strong, become strong.",
+    "count": 1
+  },
+  {
+    "greek": "ἑτέραις",
+    "strongs": "2087",
+    "morphology": "A-DPF",
+    "brief": "another, different",
+    "long": "(a) of two: another, a second, (b) other, different, (c) one's neighbor.",
+    "count": 1
+  },
+  {
+    "greek": "σύνεσίν",
+    "strongs": "4907",
+    "morphology": "N-ASF",
+    "brief": "understanding",
+    "long": "a putting together in the mind, hence: understanding, practical discernment, intellect.",
+    "count": 1
+  },
+  {
+    "greek": "ἔσω",
+    "strongs": "2080",
+    "morphology": "ADV",
+    "brief": "within, inside",
+    "long": "within, inside, with verbs either of rest or of motion; prep: within, to within, inside.",
+    "count": 1
+  },
+  {
+    "greek": "ἀναγινώσκοντες",
+    "strongs": "314",
+    "morphology": "V-PAP-NPM",
+    "brief": "I read",
+    "long": "I read, know again, know certainly, recognize, discern.",
+    "count": 1
+  },
+  {
+    "greek": "κατοικῆσαι",
+    "strongs": "2730",
+    "morphology": "V-AAN",
+    "brief": "I dwell in, settle in, inhabit",
+    "long": "I dwell in, settle in, am established in (permanently), inhabit.",
+    "count": 1
+  },
+  {
+    "greek": "καρδίαις",
+    "strongs": "2588",
+    "morphology": "N-DPF",
+    "brief": "the heart, inner life, intention",
+    "long": "lit: the heart; mind, character, inner self, will, intention, center.",
+    "count": 1
+  },
+  {
+    "greek": "ἐρριζωμένοι",
+    "strongs": "4492",
+    "morphology": "V-RPP-NPM",
+    "brief": "I root, fix by the root",
+    "long": "I cause to take root; met: I plant, fix firmly, establish.",
+    "count": 1
+  },
+  {
+    "greek": "ὀλίγῳ,",
+    "strongs": "3641",
+    "morphology": "A-DSM",
+    "brief": "small, brief, few, soon",
+    "long": "(a) especially in plur: few, (b) in sing: small; hence, of time: short, of degree: light, slight, little.",
+    "count": 1
+  },
+  {
+    "greek": "τεθεμελιωμένοι,",
+    "strongs": "2311",
+    "morphology": "V-RPP-NPM",
+    "brief": "I found, lay the foundation",
+    "long": "I found, lay the foundation (lit. and met.).",
+    "count": 1
+  },
+  {
+    "greek": "προέγραψα",
+    "strongs": "4270",
+    "morphology": "V-AAI-1S",
+    "brief": "I write previously",
+    "long": "(a) I write previously (aforetime); I write above (already), (b) I depict or portray openly, (c) I designate beforehand.",
+    "count": 1
+  },
+  {
+    "greek": "καθὼς",
+    "strongs": "2531",
+    "morphology": "ADV",
+    "brief": "just as, as",
+    "long": "according to the manner in which, in the degree that, just as, as.",
+    "count": 1
+  },
+  {
+    "greek": "ἐξισχύσητε",
+    "strongs": "1840",
+    "morphology": "V-AAS-2P",
+    "brief": "I have strength for, am perfectly able",
+    "long": "I have strength for (a difficult task), am perfectly able.",
+    "count": 1
+  },
+  {
+    "greek": "καταλαβέσθαι",
+    "strongs": "2638",
+    "morphology": "V-2AMN",
+    "brief": "I seize tight hold of, overtake, comprehend",
+    "long": "(a) I seize tight hold of, arrest, catch, capture, appropriate, (b) I overtake, (c) mid. aor: I perceived, comprehended.",
+    "count": 1
+  },
+  {
+    "greek": "ἀποκάλυψιν",
+    "strongs": "602",
+    "morphology": "N-ASF",
+    "brief": "an unveiling, uncovering, revealing",
+    "long": "an unveiling, uncovering, revealing, revelation.",
+    "count": 1
+  },
+  {
+    "greek": "σὺν",
+    "strongs": "4862",
+    "morphology": "PREP",
+    "brief": "with",
+    "long": "with.",
+    "count": 1
+  },
+  {
+    "greek": "ὅτι",
+    "strongs": "3754",
+    "morphology": "CONJ",
+    "brief": "that, since, because",
+    "long": "that, since, because; may introduce direct discourse.",
+    "count": 1
+  },
+  {
+    "greek": "πλάτος",
+    "strongs": "4114",
+    "morphology": "N-NSN",
+    "brief": "breadth",
+    "long": "breadth.",
+    "count": 1
+  },
+  {
+    "greek": "μῆκος",
+    "strongs": "3372",
+    "morphology": "N-NSN",
+    "brief": "length",
+    "long": "length.",
+    "count": 1
+  },
+  {
+    "greek": "ὕψος",
+    "strongs": "5311",
+    "morphology": "N-NSN",
+    "brief": "height, heaven",
+    "long": "height, heaven; dignity, eminence.",
+    "count": 1
+  },
+  {
+    "greek": "βάθος,",
+    "strongs": "899",
+    "morphology": "N-NSN",
+    "brief": "depth, a depth, a deep",
+    "long": "depth; deep water; met: fullness, immensity; an extreme degree; profundities, deep-laid plans.",
+    "count": 1
+  },
+  {
+    "greek": "γνῶναί",
+    "strongs": "1097",
+    "morphology": "V-2AAN",
+    "brief": "I come to know, learn, realize",
+    "long": "I am taking in knowledge, come to know, learn; aor: I ascertained, realized.",
+    "count": 1
+  },
+  {
+    "greek": "ἠκούσατε",
+    "strongs": "191",
+    "morphology": "V-AAI-2P",
+    "brief": "I hear, listen",
+    "long": "I hear, listen, comprehend by hearing; pass: is heard, reported.",
+    "count": 1
+  },
+  {
+    "greek": "γε",
+    "strongs": "1065",
+    "morphology": "PRT",
+    "brief": "at least, indeed, really",
+    "long": "an enclitic, emphasizing particle: at least, indeed, really, but generally too subtle to be represented in English.",
+    "count": 1
+  },
+  {
+    "greek": "εἴ",
+    "strongs": "1487",
+    "morphology": "COND",
+    "brief": "if",
+    "long": "if.",
+    "count": 1
+  },
+  {
+    "greek": "τε",
+    "strongs": "5037",
+    "morphology": "PRT",
+    "brief": "and, both",
+    "long": "and, both.",
+    "count": 1
+  },
+  {
+    "greek": "ὑπερβάλλουσαν",
+    "strongs": "5235",
+    "morphology": "V-PAP-ASF",
+    "brief": "I surpass",
+    "long": "I surpass, excel, exceed, transcend.",
+    "count": 1
+  },
+  {
+    "greek": "γνώσεως",
+    "strongs": "1108",
+    "morphology": "N-GSF",
+    "brief": "knowledge, doctrine, wisdom",
+    "long": "knowledge, doctrine, wisdom.",
+    "count": 1
+  },
+  {
+    "greek": "πληρωθῆτε",
+    "strongs": "4137",
+    "morphology": "V-APS-2P",
+    "brief": "I fill, fulfill, complete",
+    "long": "I fill, fulfill, complete.",
+    "count": 1
+  },
+  {
+    "greek": "πλήρωμα",
+    "strongs": "4138",
+    "morphology": "N-ASN",
+    "brief": "fullness, fulfillment, completion",
+    "long": "(a) a fill, fullness; full complement; supply, patch, supplement, (b) fullness, filling, fulfillment, completion.",
+    "count": 1
+  },
+  {
+    "greek": "δέσμιος",
+    "strongs": "1198",
+    "morphology": "N-NSM",
+    "brief": "one bound, a prisoner",
+    "long": "one bound, a prisoner.",
+    "count": 1
+  },
+  {
+    "greek": "δὲ",
+    "strongs": "1161",
+    "morphology": "CONJ",
+    "brief": "but, on the other hand, and",
+    "long": "a weak adversative particle, generally placed second in its clause; but, on the other hand, and.",
+    "count": 1
+  },
+  {
+    "greek": "Παῦλος",
+    "strongs": "3972",
+    "morphology": "N-NSM",
+    "brief": "Paul",
+    "long": "Paul, Paulus.",
+    "count": 1
+  },
+  {
+    "greek": "ἢ",
+    "strongs": "2228",
+    "morphology": "PRT",
+    "brief": "or, than",
+    "long": "or, than.",
+    "count": 1
+  },
+  {
+    "greek": "ἐνεργουμένην",
+    "strongs": "1754",
+    "morphology": "V-PMP-ASF",
+    "brief": "I work, accomplish, am operative",
+    "long": "I work, am operative, am at work, am made to work, accomplish; mid: I work, display activity.",
+    "count": 1
+  },
+  {
+    "greek": "ἀμήν.",
+    "strongs": "281",
+    "morphology": "HEB",
+    "brief": "verily, truly, amen, so let it be",
+    "long": "verily, truly, amen; at the end of sentences may be paraphrased by: So let it be.",
+    "count": 1
+  }
+]
